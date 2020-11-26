@@ -1,3 +1,8 @@
 {
-    "python.pythonPath": "/home/rocky/.local/share/virtualenvs/hi-RcsLa40e/bin/python"
+    "python.pythonPath": "/home/rocky/.local/share/virtualenvs/hi-RcsLa40e/bin/python",
+    
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ]
 }
