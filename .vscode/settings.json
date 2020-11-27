@@ -1,8 +1,6 @@
 {
     "python.pythonPath": "/home/rocky/.local/share/virtualenvs/hi-RcsLa40e/bin/python",
-    
-    "python.linting.pylintArgs": [
-        "--load-plugins",
-        "pylint_django"
-    ]
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
 }
